@@ -9,10 +9,11 @@ label-nup.pdf: label.pdf
 		label.pdf label.pdf label.pdf label.pdf label.pdf label.pdf label.pdf label.pdf
 
 print: label-nup.pdf
-	lp -n 1 -o "ColorModel=Gray Quality=Draft" label-nup.pdf
+	lp -n 4 -o "ColorModel=Gray Quality=Draft" label-nup.pdf
 
 clean:
 	rm -f *.pdf *.jpg
 
 .PHONY: print
+
 
