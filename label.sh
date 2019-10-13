@@ -1,2 +1,2 @@
 #!/bin/bash
-curl -o label.jpg https://memegen.link/hipster/supermarket_stout/october_2019.jpg
+curl -o label.jpg https://memegen.link/interesting/supermarket_draught/october_2019.jpg
