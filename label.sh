@@ -1,2 +1,2 @@
 #!/bin/bash
-curl -o label.jpg https://memegen.link/interesting/supermarket_draught/october_2019.jpg
+curl -Lsfo label.jpg "https://memegen.link/custom/shlock_bock/june_2021.jpg?alt=https://i.imgflip.com/g3git.jpg"
